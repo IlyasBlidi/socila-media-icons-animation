@@ -2,7 +2,7 @@
 
 This repository contains a simple implementation of a hover effect for social media icons. When we hover over each icon, the background color changes, and a tooltip with the platform name appears. The hover effect is implemented using HTML and CSS.
 
-https://github.com/user-attachments/assets/dc09a724-2e09-44ff-bd41-5fb3df0b0106
+https://github.com/user-attachments/assets/c775e783-b2cf-49da-ade4-297be2cfdda5
 
 ## Features
 - **Social Media Icons**: Includes icons for Twitter, YouTube, Instagram, TikTok, and Facebook.
