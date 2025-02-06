@@ -11,8 +11,10 @@ https://github.com/user-attachments/assets/c775e783-b2cf-49da-ade4-297be2cfdda5
 ## Project Structure
 ```
 root
-├── index.html  # HTML file containing the structure of the social links
-├── style.css   # CSS file for styling the hover effects
+├── index.html    # HTML file containing the structure of the social links
+├── style.css     # CSS file for styling the hover effects
+├── overview.mp4  # MP4 file showing the animation overview
+├── README.md     # Markdown file for the documentation
 ```
 
 ## How to Use
